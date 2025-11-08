@@ -1,5 +1,5 @@
 def sum(x,y):
-    return x+y
+    return x + y
 
-sum(3,4)
-print(sum)
+
+print("Sum calculated", sum(3,4))
