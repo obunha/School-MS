@@ -1,0 +1,5 @@
+def fibbo(x):
+  return x
+
+print(f'The fibbi is: {fibbo(x)}' )
+print("closed")
